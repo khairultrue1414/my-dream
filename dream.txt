@@ -2,3 +2,5 @@ MY DREAM
 - Konsisten Belajar Programming tiap hari
 - Framework Codeigniter
 - Python
+- Django 3.0
+- Data Science
